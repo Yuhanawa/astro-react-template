@@ -7,6 +7,7 @@
 > 包管理: pnpm
 
 1. 框架 Astro + React
+
    - [Astro]
      - [sitemap]
      - [astro-imagetools] [[doc]](https://astro-imagetools-docs.vercel.app/)
@@ -22,8 +23,8 @@
 
 ## Commands
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
+| Command                    | Action                                           |
+| :------------------------- | :----------------------------------------------- |
 | `pnpm run dev`             | Starts local dev server at `localhost:4321`      |
 | `pnpm run build`           | Build your production site to `./dist/`          |
 | `pnpm run preview`         | Preview your build locally, before deploying     |
