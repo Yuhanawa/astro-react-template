@@ -2,13 +2,13 @@
 
 [[EN]](/Yuhanawa/astro-react-template/README.md) [[中文]](/Yuhanawa/astro-react-template/README_zh.md)
 
-> This is a template  
-> Includes Astro React TailwindCSS PartyTown  
-> Tools: Biome lefthook commitlint  
-> Language: Typescript  
-> Package management: pnpm
+> 这是一个模板  
+> 包含 Astro React TailwindCSS PartyTown  
+> 工具: Biome lefthook commitlint  
+> 语言: Typescript  
+> 包管理: pnpm
 
-1. Framework Astro + React
+1. 框架 Astro + React
 
    - [Astro]
      - [sitemap]
@@ -16,12 +16,12 @@
      - [astro-seo]
    - [React]
 
-2. Styling [TailwindCSS]
-3. Optimization [PartyTown]
-4. Checking and Formatting [Biome]
-5. Code submission
-   - Hook [lefthook]
-   - Standard [commitlint]
+2. 样式 [TailwindCSS]
+3. 优化 [PartyTown]
+4. 检查与格式化 [Biome]
+5. 代码提交
+   - 钩子 [lefthook]
+   - 规范 [commitlint]
 
 ## Commands
 
