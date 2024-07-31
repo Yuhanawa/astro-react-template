@@ -12,8 +12,6 @@
 
    - [Astro]
      - [sitemap]
-     - [astro-imagetools] [[doc]](https://astro-imagetools-docs.vercel.app/)
-     - [astro-seo]
    - [React]
 
 2. Styling [TailwindCSS]
@@ -35,8 +33,6 @@
 
 [Astro]: https://astro.build/
 [sitemap]: https://docs.astro.build/en/guides/integrations-guide/sitemap/
-[astro-imagetools]: https://github.com/RafidMuhymin/astro-imagetools
-[astro-seo]: https://github.com/jonasmerlin/astro-seo
 [React]: https://reactjs.org/
 [TailwindCSS]: https://tailwindcss.com/
 [PartyTown]: https://partytown.builder.io/
