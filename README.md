@@ -1,6 +1,6 @@
 ### Astro + React + TailwindCSS + PartyTown + pnpm + TS
 
-[[EN]](/Yuhanawa/astro-react-template/README.md) [[中文]](/Yuhanawa/astro-react-template/README_zh.md)
+[[EN]](https://github.com/Yuhanawa/astro-react-template/blob/master/README.md) [[中文]](https://github.com/Yuhanawa/astro-react-template/blob/master/README_zh.md)
 
 > This is a template  
 > Includes Astro React TailwindCSS PartyTown  
